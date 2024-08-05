@@ -1,0 +1,23 @@
+body {
+    color:crimson;
+    background:black;
+}
+ header {
+    border-bottom: solid 1px crimson;
+    padding: 20px;
+    font-size: 32px;
+    color: crimson;
+ }
+
+ section {
+    background: rgb red;
+    padding-bottom: 80px;
+    padding-top: 80px; 
+    display: flex;
+    justify-content: center;
+
+ }
+
+ .chamada-texto {
+    margin-right: 5%; 
+ }
